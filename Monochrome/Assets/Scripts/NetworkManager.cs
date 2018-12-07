@@ -11,7 +11,7 @@ public class NetworkManager {
     static int LOCAL_PORT = 3333;
     static UdpClient udp;
     static Thread thread;
-
+    //
 
     static string host = "192.168.11.7";
     static int port = 3333;
